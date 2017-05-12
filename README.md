@@ -1,14 +1,7 @@
 # joshua
 
-A Clojure library designed to ... well, that part is up to you.
+![how about some chess?](http://d1lalstwiwz2br.cloudfront.net/images_users/tiny_mce/kboyer309/phpb0Grxt.jpeg)
 
-## Usage
+## What does it do?
 
-FIXME
-
-## License
-
-Copyright © 2017 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+??
