@@ -4,4 +4,4 @@
 
 ## What does it do?
 
-not much
+not much -- "For if Joshua had given them rest, God would not speak later about another day."
